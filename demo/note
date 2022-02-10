@@ -1,0 +1,10 @@
+b1: tạo form
+    input: full name
+    input: email
+    input: password
+    confirm-password
+
+b2: Lấy dữ liệu từ form
+b3: Kiểm tra điều kiện
+b4: Hiển thị lỗi
+b5: chuyển trang nếu đăng nhập thành công
